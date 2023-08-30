@@ -1,0 +1,14 @@
+{
+    "configurations": [
+      {
+        "name": "Linux",
+        "includePath": ["${workspaceFolder}/**","/usr/src/kernels/5.10.0-60.18.0.50.oe2203.x86_64/include/"],
+        "defines": [],
+        "compilerPath": "/usr/bin/gcc",
+        "cStandard": "c11",
+        "cppStandard": "c++17",
+        "intelliSenseMode": "clang-x64"
+      }
+    ],
+    "version": 4
+  }
